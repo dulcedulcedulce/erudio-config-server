@@ -9,6 +9,6 @@ management:
         include:
         - '*'    
 greeting-service:
-    greeting: "dev diz: Olá"
+    greeting: "def diz: Olá"
     default-value: "Mundo"
     
